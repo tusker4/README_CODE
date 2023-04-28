@@ -88,7 +88,8 @@ for i in range(0,5):
 
 프로젝트목록 | 일자 | 사용기술 | 링크
 ---------|--------|-------|-----|
-금융상품서비스|2023| Node | [네이버](www.naver.com)
+금융상품서비스|2023| Node | [네이버](www.naver.com)![화면 캡처 2023-04-28 115247](https://user-images.githubusercontent.com/118495934/235043177-2c34a12a-7c5c-4c0a-9fbf-94a8736a3ea9.png)
+
 금융추천시스템|2023| Vue
 
 
